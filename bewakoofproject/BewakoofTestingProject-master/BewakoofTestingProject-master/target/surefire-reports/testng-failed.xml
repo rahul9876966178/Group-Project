@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/AddToWishListTest.java(failed)" verbose="0">
+    <classes>
+      <class name="org.example.AddToWishListTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.example.AddToWishListTest -->
+    </classes>
+  </test> <!-- E:/Epam/BewakoofTestingProject/src/test/java/org/example/AddToWishListTest.java(failed) -->
+  <test thread-count="5" name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/PaymentMethodTest.java(failed)" verbose="0">
+    <classes>
+      <class name="org.example.PaymentMethodTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.example.PaymentMethodTest -->
+    </classes>
+  </test> <!-- E:/Epam/BewakoofTestingProject/src/test/java/org/example/PaymentMethodTest.java(failed) -->
+  <test thread-count="5" name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/PriceSortingTest.java(failed)" verbose="0">
+    <classes>
+      <class name="org.example.PriceSortingTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.example.PriceSortingTest -->
+    </classes>
+  </test> <!-- E:/Epam/BewakoofTestingProject/src/test/java/org/example/PriceSortingTest.java(failed) -->
+  <test thread-count="5" name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/ProductPageTest.java(failed)" verbose="0">
+    <classes>
+      <class name="org.example.ProductPageTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.example.ProductPageTest -->
+    </classes>
+  </test> <!-- E:/Epam/BewakoofTestingProject/src/test/java/org/example/ProductPageTest.java(failed) -->
+  <test thread-count="5" name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/SearchFieldTest.java(failed)" verbose="0">
+    <classes>
+      <class name="org.example.SearchFieldTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.example.SearchFieldTest -->
+    </classes>
+  </test> <!-- E:/Epam/BewakoofTestingProject/src/test/java/org/example/SearchFieldTest.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

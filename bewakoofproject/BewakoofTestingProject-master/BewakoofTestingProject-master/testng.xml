@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" thread-count="2">
+    <test verbose="2" preserve-order="true"
+          name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/AddNewUserTest.java">
+        <classes>
+            <class name="org.example.AddNewUserTest">
+                <methods>
+                    <include name="setup"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/AddToWishListTest.java">
+        <classes>
+            <class name="org.example.AddToWishListTest">
+                <methods>
+                    <include name="setup"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/ExistingUserTest.java">
+        <classes>
+            <class name="org.example.ExistingUserTest">
+                <methods>
+                    <include name="setup"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/PaymentMethodTest.java">
+        <classes>
+            <class name="org.example.PaymentMethodTest">
+                <methods>
+                    <include name="setup"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/PriceSortingTest.java">
+        <classes>
+            <class name="org.example.PriceSortingTest">
+                <methods>
+                    <include name="setup"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/ProductPageTest.java">
+        <classes>
+            <class name="org.example.ProductPageTest">
+                <methods>
+                    <include name="setup"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="E:/Epam/BewakoofTestingProject/src/test/java/org/example/SearchFieldTest.java">
+        <classes>
+            <class name="org.example.SearchFieldTest">
+                <methods>
+                    <include name="setup"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
